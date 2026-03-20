@@ -3,14 +3,10 @@
 <div align="center">
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=380&height=50&lines=Hey%2C+I'm+Dev+Hada+%F0%9F%94%A5;Frontend+Developer;I+build+things+that+feel+alive." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=380&height=50&lines=Hey%2C+I'm+Dev+Hada+%F0%9F%94%A5;React+Developer;The+Honored+Dev+%E2%88%9E;I+build+things+that+feel+alive." alt="Typing SVG" />
 </picture>
 
 <br/>
-
-```
-  ✦  The Honored Dev  ✦
-```
 
 *Detail-obsessed. Animation-addicted. Shipping real products.*
 
@@ -22,7 +18,7 @@
 
 I'm a **final-year BCA student** from Jaipur, India — building polished, production-ready web experiences that feel as good as they look. I care about the details — the animation timing, the hover state, the font pairing — the things most people skip.
 
-I lead **Team Invictus** through hackathons, chasing winning experiences and pushing what we can build together.  
+I lead **Team Invictus** through hackathons, chasing and winning experiences and pushing what we can build together.  
 Outside of that, I handle real client projects — turning actual business needs into clean, deployed web products.
 
 ---
@@ -36,7 +32,7 @@ Outside of that, I handle real client projects — turning actual business needs
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Groq AI](https://img.shields.io/badge/Groq_AI-ff4d00?style=flat-square&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 
 ---
 
@@ -54,7 +50,7 @@ Outside of that, I handle real client projects — turning actual business needs
 ## ⚡ A Few Things About Me
 
 - 🎌 Anime is a lifestyle — AoT & JJK have my whole heart (Gojo nation 🤍)
-- 🏆 I love going to hackathons with my team — always chasing that winning experience
+- 🏆 I love going to hackathons with my team — always chasing and winning experiences
 - 🤝 AI is more like a partner to me rather than a ghostwriter
 - 🌙 Debugging hits different after midnight
 - 🎯 Final year, full throttle — building, deploying & job hunting all at once
