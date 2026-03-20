@@ -2,42 +2,38 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&pause=1000&color=FF4D00&center=true&vCenter=true&width=600&lines=Throughout+Heaven+and+Earth...;...I+alone+am+the+honored+dev.;%3C+Frontend+Developer+%2F%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&pause=1000&color=FF4D00&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Dev+Hada.;Frontend+Developer.;I+build+things+that+feel+alive." alt="Typing SVG" />
+
+<br/>
+
+> *"Throughout heaven and earth — ∞"*
 
 </div>
 
 ---
 
-<div align="center">
+## Who I Am
 
-> *"No matter how many enemies appear — I'll crush them all."*
-> — Gojo Satoru, also me during debugging
+I'm a **final-year BCA student** from Jaipur, India — building polished, production-ready web experiences that feel as good as they look.
 
-</div>
+I care about the details. The animation timing. The hover state. The font pairing. The things most people skip.
 
----
-
-## 👁️ Who Am I
-
-**Dev Hada.** Final-year BCA student from Jaipur. I build frontend experiences with the same energy Gojo brings to a fight — fast, precise, and a little too confident.
-
-I lead **Team Invictus** 🔥 — six devs, real clients, real deadlines.  
-React is my domain. Framer Motion is my cursed technique.
+I lead **Team Invictus** — a six-member dev team with real clients, real projects, and real deadlines.
 
 ---
 
-## ∞ Current Domains (Projects)
+## 🚀 What I'm Building
 
-| Project | What it does | Status |
+| Project | Description | Status |
 |--------|-------------|--------|
-| [**Student Hub**](https://student-hub-phi.vercel.app) | All-in-one study platform — AI Tutor, Focus Timer, Notes & more | ✅ Live |
-| **Dev Portfolio** | Personal portfolio — React + Vite + Tailwind v4 + Framer Motion | 🔧 Deploying |
-| **Kids World Public School** | School website — Groq AI, Firebase, EmailJS | ✅ Live |
-| **Car Decor Catalog** | Client project — auto decor shop catalog | 🔧 In Progress |
+| [**Student Hub**](https://student-hub-phi.vercel.app) | All-in-one study platform — AI Tutor, Focus Timer, Notes, Study Groups | ✅ Live |
+| **Dev Portfolio** | Personal portfolio — React + Vite + Tailwind v4 + Framer Motion | 🔧 Deploying soon |
+| **Kids World Public School** | School website with Groq AI assistant, Firebase & EmailJS | ✅ Live |
+| **Car Decor Catalog** | Product catalog for a local auto decor client | 🔧 In Progress |
 
 ---
 
-## 🧿 Cursed Techniques (Tech Stack)
+## 🛠️ Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,21 +45,19 @@ React is my domain. Framer Motion is my cursed technique.
 
 ---
 
-## ⚡ Six Eyes (Fun Facts)
+## ⚡ A Few Things About Me
 
-- 👁️ Gojo Satoru is the GOAT. Not debating this.
-- 🎌 **Attack on Titan** shaped my entire personality
-- 🏆 Competed at **Projectathon 2.0** — walked in like Gojo, won like Gojo
-- 🧠 I write my own code. AI is a teammate, not a replacement
-- 🌙 My best code gets written after midnight
-- 🎯 Final year mode: deploying projects, chasing opportunities, no days off
+- 🎌 Huge anime fan — AoT & JJK (Gojo nation, obviously)
+- 🏆 Competed at **Projectathon 2.0** with Student Hub
+- 🧠 I write my own code — AI is a tool, not a ghostwriter
+- 🌙 Debugging hits different after midnight
+- 🎯 Final year, full throttle — building, deploying, job hunting simultaneously
 
 ---
 
-## 📡 Reverse Cursed Technique (Open to Work)
+## 📬 Open to Opportunities
 
-Currently looking for **Frontend Developer roles / internships** (React-focused).  
-If you've got an opportunity — I'm already ten steps ahead of you.
+Looking for **Frontend Developer roles / internships** — React-focused, detail-obsessed, ready to ship.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff4d00?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
@@ -73,8 +67,8 @@ If you've got an opportunity — I'm already ten steps ahead of you.
 
 <div align="center">
 
-*Throughout heaven and earth — I alone am the honored dev.*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=devHada&color=ff4d00&style=flat-square)
+
+*built with React, Framer Motion, and too much chai ☕*
 
 </div>
