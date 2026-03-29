@@ -41,9 +41,10 @@ Outside of that, I handle real client projects — turning actual business needs
 | Project | Description | Status |
 |--------|-------------|--------|
 | [**Student Hub**](https://student-hub-phi.vercel.app) | Team project — all-in-one study platform with AI Tutor, Focus Timer, Notes & Study Groups | ✅ Live |
-| **Dev Portfolio** | Personal project — React + Vite + Tailwind v4 + Framer Motion | 🔧 Deploying soon |
-| **Kids World Public School** | Client project — school website with Groq AI assistant & EmailJS | ✅ Live |
-| **Movie App** | Personal project — browse & explore movies using a public API | 🔧 In Development |
+| [**My Portfolio**](https://devHada.vercel.app) | Personal Portfolio — React + Vite + Tailwind v4 + Framer Motion | ✅ Live |
+| [**Kids World Public School**](https://kids-world-public-school.vercel.app) | Client project — school website with FAQ assistant & Whatshap Api | ✅ Live |
+| [**SnapComp**](https://snap-component.vercel.app) | Personal project — react component generator powered by groq api  | ✅ Live 
+
 
 ---
 
